@@ -48,16 +48,10 @@ public class MyJokes {
                     "The husband enters and his wife says she wants to go to market to buy food items. The husband takes advantage of his wife's absence and calls your wife. Your wife arrives and they make love. Suddenly his wife (Your neighbour) who had gone to the market is back and knocks on the door. You're still under the bed and then your wife rushes to hide under the bed.\n" +
                     "This is REUNION.???",
             "Teacher: What is a baby lizard called?\n" +
-                    "Akpos: a baby lizard is called lizzybaby.\n" +
-                    "\n" +
-                    "Read more: http://najoke.com/jokes?jt=short#ixzz5cGDFkCE7 \n" +
-                    "Follow us: @naJokeO on Twitter | naJokeO on Facebook",
+                    "Akpos: a baby lizard is called lizzybaby.",
             "A Student Called his dad from school and he said\n" +
                     "“Dad the situation at school is very critical if you don't send me money am going to commit suicide ”\n" +
-                    "Dad replied: Son the situation at home is also critical suicide approved\n" +
-                    "\n" +
-                    "Read more: http://najoke.com/jokes?jt=short#ixzz5cGDLyU5f \n" +
-                    "Follow us: @naJokeO on Twitter | naJokeO on Facebook");
+                    "Dad replied: Son the situation at home is also critical suicide approved";
 
     public String getMyJoke(){
 
