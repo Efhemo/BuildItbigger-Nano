@@ -13,7 +13,6 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.efhemo.jokesandroidlibrary.JokesActivity;
-import com.efhemo.jokeslibrary.MyJokes;
 
 
 public class MainActivity extends AppCompatActivity {
